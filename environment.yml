@@ -1,0 +1,8 @@
+name: dockerfile-practice
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - seaborn
+  - python=3.12
+  - conda-lock=3.0.4
